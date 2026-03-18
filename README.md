@@ -2,9 +2,8 @@ This project aims to use discord as a storage medium
 by sending chunk sized files and then reconstructing it.
 
 Additionally it contains functionalities:
-1. Scraping discord server messages and saving them as text, csv or your
-2. preferred format. This functionality is implemented in
-3. discord.py module.
+Scraping discord server messages and saving them as text, csv or your
+preferred format. This functionality is implemented in discord.py module.
 
 To use backup_maker:
 Make sure following packages are installed by:
